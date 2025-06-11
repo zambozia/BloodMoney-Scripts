@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 809c557d0b2e18a4fb71edcb0eef5382
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302272
+  packageName: FS Inventory System - Equipment/Shop/Crafting
+  packageVersion: 1.0
+  assetPath: Assets/Fantacode Studios/Inventory System/Scripts/UI/EquipmentSlotUI.cs
+  uploadId: 754832

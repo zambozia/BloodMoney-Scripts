@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e06076313f20b754e948a5715943f7bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302272
+  packageName: FS Inventory System - Equipment/Shop/Crafting
+  packageVersion: 1.0
+  assetPath: Assets/Fantacode Studios/Inventory System/Scripts/Input/InventoryInputManager.cs
+  uploadId: 754832

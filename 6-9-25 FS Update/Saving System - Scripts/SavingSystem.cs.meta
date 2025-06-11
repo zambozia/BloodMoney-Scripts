@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 25ea6e5b17e5e5f41abb67123125810f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302272
+  packageName: FS Inventory System - Equipment/Shop/Crafting
+  packageVersion: 1.0
+  assetPath: Assets/Fantacode Studios/Saving System/Scripts/SavingSystem.cs
+  uploadId: 754832

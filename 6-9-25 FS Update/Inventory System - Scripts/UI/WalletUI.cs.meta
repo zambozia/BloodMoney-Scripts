@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3b486b1e849d30f45aa549c7e514426f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302272
+  packageName: FS Inventory System - Equipment/Shop/Crafting
+  packageVersion: 1.0
+  assetPath: Assets/Fantacode Studios/Inventory System/Scripts/UI/WalletUI.cs
+  uploadId: 754832

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: de2fbfd3f5bb07644bd63bf5e24e4365
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302272
+  packageName: FS Inventory System - Equipment/Shop/Crafting
+  packageVersion: 1.0
+  assetPath: Assets/Fantacode Studios/Inventory System/Scripts/InventoryOpener.cs
+  uploadId: 754832

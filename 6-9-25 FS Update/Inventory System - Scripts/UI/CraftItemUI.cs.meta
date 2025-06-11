@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 14bd14da8af2f074fb095a1ba9c13939
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302272
+  packageName: FS Inventory System - Equipment/Shop/Crafting
+  packageVersion: 1.0
+  assetPath: Assets/Fantacode Studios/Inventory System/Scripts/UI/CraftItemUI.cs
+  uploadId: 754832

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc5c65ff2415e0d49baf5806d7ec4ac1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302272
+  packageName: FS Inventory System - Equipment/Shop/Crafting
+  packageVersion: 1.0
+  assetPath: Assets/Fantacode Studios/Saving System/Scripts/MenuSelectionUI.cs
+  uploadId: 754832
