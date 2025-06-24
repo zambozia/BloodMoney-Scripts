@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c70b94f238518054db1f7312ac488d09
+timeCreated: 1511099527
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/inGame Scripts/PauseMenu/Editor/PauseMenuOptionsEditor.cs
+  uploadId: 272698

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ca102a1e40ba8d3488cb2e63e15ad311
+timeCreated: 1507344968
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/Main Menu Scripts/LevelSelectItem.cs
+  uploadId: 272698

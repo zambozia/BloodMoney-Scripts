@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6bfe1f52b3642c348b2fc99cf57edbc4
+timeCreated: 1503422634
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/EasyInputUtility/Prefabs/EasyInputUtility.prefab
+  uploadId: 272698

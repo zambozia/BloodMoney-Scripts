@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: f2c0331bbc4028c4e9473597087f15a7
+timeCreated: 1502963897
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/EasyAudioUtility/Sample Audio Clips/Ampyx
+    - Rise [Royalty Free Music].mp3
+  uploadId: 272698

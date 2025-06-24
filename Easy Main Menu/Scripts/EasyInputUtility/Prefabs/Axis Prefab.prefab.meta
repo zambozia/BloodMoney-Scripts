@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db1b21524fbbe93498883e7355b191cd
+timeCreated: 1503309911
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/EasyInputUtility/Prefabs/Axis Prefab.prefab
+  uploadId: 272698

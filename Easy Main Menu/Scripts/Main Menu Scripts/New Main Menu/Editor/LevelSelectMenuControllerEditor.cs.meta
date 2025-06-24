@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1498eb78e9debdb44bcf81b9f89d4f08
+timeCreated: 1538927186
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/Main Menu Scripts/New Main Menu/Editor/LevelSelectMenuControllerEditor.cs
+  uploadId: 272698

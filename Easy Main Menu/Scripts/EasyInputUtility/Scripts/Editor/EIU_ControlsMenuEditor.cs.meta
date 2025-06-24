@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9bf98d3b610f72d458e3c452bc56c45f
+timeCreated: 1511091642
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/EasyInputUtility/Scripts/Editor/EIU_ControlsMenuEditor.cs
+  uploadId: 272698

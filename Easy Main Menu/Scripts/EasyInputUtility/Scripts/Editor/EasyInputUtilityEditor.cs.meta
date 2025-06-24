@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bb76a9f4b15f3424facba5941e955204
+timeCreated: 1511092572
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/EasyInputUtility/Scripts/Editor/EasyInputUtilityEditor.cs
+  uploadId: 272698

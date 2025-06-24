@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0b9b0a22e7cf94649bed06bf33f469ca
+timeCreated: 1538820283
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/Main Menu Scripts/New Main Menu/CharacterSelectMenuController.cs
+  uploadId: 272698

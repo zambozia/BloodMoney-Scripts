@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2c6f44909e2d06f42bffa3196ed5c2ec
+timeCreated: 1512193651
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/EasyLoginUtility/LoginManager_Local.cs
+  uploadId: 272698

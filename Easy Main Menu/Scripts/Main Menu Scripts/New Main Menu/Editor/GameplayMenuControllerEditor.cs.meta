@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 526d886d7c8b1aa4a81711cac9d08803
+timeCreated: 1538920632
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/Main Menu Scripts/New Main Menu/Editor/GameplayMenuControllerEditor.cs
+  uploadId: 272698

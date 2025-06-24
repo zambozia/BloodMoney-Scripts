@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d384c74656a5394db29e09554da2247
+timeCreated: 1538703515
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98746
+  packageName: Easy Main Menu
+  packageVersion: 1.1
+  assetPath: Assets/EasyMainMenu/Scripts/Brightness/Brightness Effect.shader
+  uploadId: 272698
