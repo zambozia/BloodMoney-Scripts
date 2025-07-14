@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b234b3baf09ce04aa00ad372f497021
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203706
+  packageName: Mobile Pedestrian System
+  packageVersion: 1.1.4
+  assetPath: Assets/Gley/UrbanAssets/Scripts/Unused/ConnectionPoolBase.cs
+  uploadId: 752855

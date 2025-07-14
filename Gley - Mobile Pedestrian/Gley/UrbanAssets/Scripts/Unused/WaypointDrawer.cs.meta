@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 983d2a6ad577d704584378a9c41acb8b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203706
+  packageName: Mobile Pedestrian System
+  packageVersion: 1.1.4
+  assetPath: Assets/Gley/UrbanAssets/Scripts/Unused/WaypointDrawer.cs
+  uploadId: 752855

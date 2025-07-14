@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c6da0a9bf8343214580c4d7b513781c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203706
+  packageName: Mobile Pedestrian System
+  packageVersion: 1.1.4
+  assetPath: Assets/Gley/UrbanAssets/Scripts/Unused/RoadDrawer.cs
+  uploadId: 752855

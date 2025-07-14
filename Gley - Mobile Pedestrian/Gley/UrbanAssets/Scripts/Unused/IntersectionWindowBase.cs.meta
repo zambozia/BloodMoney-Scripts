@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a590f61a06261f7438fc5a265e8c3142
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203706
+  packageName: Mobile Pedestrian System
+  packageVersion: 1.1.4
+  assetPath: Assets/Gley/UrbanAssets/Scripts/Unused/IntersectionWindowBase.cs
+  uploadId: 752855

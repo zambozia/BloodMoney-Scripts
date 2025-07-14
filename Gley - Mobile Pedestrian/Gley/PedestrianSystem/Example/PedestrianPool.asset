@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85dea0073926b9f4886220ddfee6531c, type: 3}
+  m_Name: PedestrianPool
+  m_EditorClassIdentifier: 
+  _pedestrians:
+  - _pedestrianPrefab: {fileID: 5125426676774990826, guid: d70753ff03b53e343a811c1913e02ab8, type: 3}
+    _percent: 27
+    _dontInstantiate: 0
+  - _pedestrianPrefab: {fileID: 4882043785685735888, guid: 853a0f852da77d24f9ab4852d1577654, type: 3}
+    _percent: 100
+    _dontInstantiate: 0
+  - _pedestrianPrefab: {fileID: 1414431656632985949, guid: 4b3e09b5e26561e47bdd70c93a7be289, type: 3}
+    _percent: 67
+    _dontInstantiate: 0
+  - _pedestrianPrefab: {fileID: 8911340547790810321, guid: dbdcede212033364898ada436da400f5, type: 3}
+    _percent: 77
+    _dontInstantiate: 0
+  - _pedestrianPrefab: {fileID: 5402798858446643256, guid: b674f678074ce684094f34c9cd3a99b5, type: 3}
+    _percent: 56
+    _dontInstantiate: 0
+  - _pedestrianPrefab: {fileID: 8911340547790810321, guid: dbdcede212033364898ada436da400f5, type: 3}
+    _percent: 87
+    _dontInstantiate: 0

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e2eca101c69df6f489b2d02fa8ced15d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 262354
+  packageName: FS - Melee Combat System
+  packageVersion: 1.5.3
+  assetPath: Assets/Fantacode Studios/Third Person Controller/Equip And Attach/Scripts/Equip/ThrowableItemData.cs
+  uploadId: 765149

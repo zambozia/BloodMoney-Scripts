@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9868f73b27c5c42449e543396e914957
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 203706
+  packageName: Mobile Pedestrian System
+  packageVersion: 1.1.4
+  assetPath: Assets/Gley/UrbanAssets/Scripts/Unused/LinkOtherLanes.cs
+  uploadId: 752855
